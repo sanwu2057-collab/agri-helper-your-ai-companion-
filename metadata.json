@@ -1,5 +1,5 @@
 {
-  "name": "Remix: AI Studio Dashboard",
+  "name": "agri-helper your comanion in modern farming",
   "description": "A sleek, futuristic AI Studio dashboard with a dark theme and glassmorphism style for managing AI models.",
   "requestFramePermissions": [
     "microphone"
